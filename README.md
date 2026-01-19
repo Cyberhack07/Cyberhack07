@@ -17,7 +17,7 @@ Soy un profesional apasionado de la ciberseguridad con un enfoque especial en el
 Si compartes mi pasión por la ciberseguridad, el hacking ético, la inteligencia de fuentes abiertas o la seguridad defensiva, estaré encantado de conectar contigo. ¡Sigue mi trabajo aquí en GitHub y no dudes en contactarme si deseas colaborar o charlar sobre la industria!
 
 Email: [j.dlozada.c07@gmail.com]  
-LinkedIn: [linkedin.com/in/juan-david-lozada-concepción]   
+LinkedIn: [linkedin.com/in/juanlozada07]   
 
 Gracias por visitar mi perfil. ¡Espero que encuentres mis proyectos útiles e inspiradores!
 
